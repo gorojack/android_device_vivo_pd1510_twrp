@@ -1,1 +1,0 @@
-# android_device_vivo_pd1510_twrp
